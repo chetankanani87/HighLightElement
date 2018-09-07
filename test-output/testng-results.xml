@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-08-27T19:31:38Z" name="Default suite" finished-at="2018-08-27T19:31:57Z" duration-ms="18580">
+    <groups>
+    </groups>
+    <test started-at="2018-08-27T19:31:38Z" name="Default test" finished-at="2018-08-27T19:31:57Z" duration-ms="18580">
+      <class name="highLightElement.HighLightElement">
+        <test-method is-config="true" signature="InvokeBrowser()[pri:0, instance:highLightElement.HighLightElement@2fb69ff6]" started-at="2018-08-27T15:31:38Z" name="InvokeBrowser" finished-at="2018-08-27T15:31:39Z" duration-ms="979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeBrowser -->
+        <test-method signature="HighlightEle()[pri:0, instance:highLightElement.HighLightElement@2fb69ff6]" started-at="2018-08-27T15:31:39Z" name="HighlightEle" finished-at="2018-08-27T15:31:51Z" duration-ms="11834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HighlightEle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:highLightElement.HighLightElement@2fb69ff6]" started-at="2018-08-27T15:31:51Z" name="tearDown" finished-at="2018-08-27T15:31:57Z" duration-ms="5745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- highLightElement.HighLightElement -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
